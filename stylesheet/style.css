@@ -286,7 +286,7 @@ p {
   height: 20px;
   margin-right: 10px;
   line-height: 1.5;
-  margin-top: auto;
+  margin-top: 0.2em;
 }
 /* サイトアイコンを64pxに設定 */
 .footer_brand_logo {
